@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6854feab9437f8a87e03c35f"
+  },
+  "key": "user:1",
+  "value": "Irmayanti"
+},
+{
+  "_id": {
+    "$oid": "6854feab9437f8a87e03c360"
+  },
+  "key": "user:2",
+  "value": "Yanto"
+},
+{
+  "_id": {
+    "$oid": "6854feab9437f8a87e03c361"
+  },
+  "key": "user:3",
+  "value": "Milea"
+},
+{
+  "_id": {
+    "$oid": "6854feab9437f8a87e03c362"
+  },
+  "key": "user:4",
+  "value": "Doraemong"
+},
+{
+  "_id": {
+    "$oid": "6854feab9437f8a87e03c363"
+  },
+  "key": "user:5",
+  "value": "Nobita"
+}]

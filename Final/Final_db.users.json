@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "685500245cd8b07aba8fa1fc"
+  },
+  "user_id": "user1",
+  "name": "Irmayanti",
+  "email": "irmayanti@example.com",
+  "age": 30,
+  "city": "Majene"
+},
+{
+  "_id": {
+    "$oid": "685500d95cd8b07aba8fa202"
+  },
+  "user_id": "user2",
+  "name": "Yanto",
+  "email": "yanto@example.com",
+  "city": "Majene"
+},
+{
+  "_id": {
+    "$oid": "685501225cd8b07aba8fa204"
+  },
+  "user_id": "user3",
+  "name": "Milea",
+  "email": "milea@example.com",
+  "age": 30
+},
+{
+  "_id": {
+    "$oid": "685501645cd8b07aba8fa206"
+  },
+  "user_id": "user4",
+  "name": "Doraemong",
+  "email": "dora@example.com"
+},
+{
+  "_id": {
+    "$oid": "685501a25cd8b07aba8fa208"
+  },
+  "user_id": "user5",
+  "name": "Nobita",
+  "email": "nobita@example.com",
+  "age": 35,
+  "city": "Majene"
+}]
